@@ -4,7 +4,7 @@ function Footer() {
   return (
       <div>
 
-     <p>By clicking the button, you are agreeing to our <a href=""><strong>Terms and Services</strong></a></p>
+     <p>By clicking the button, you are agreeing to our <a href="# "><strong>Terms and Services</strong></a></p>
 
 
 

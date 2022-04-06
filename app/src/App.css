@@ -30,3 +30,8 @@ body {
     line-height: 1.7;
     background-image: url(../public/images/bg-intro-mobile.png);
 }
+.App {
+
+    display: flex;
+    flex-direction: column;
+}
